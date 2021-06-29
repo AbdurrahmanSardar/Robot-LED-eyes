@@ -1,6 +1,5 @@
 # Robot-LED-eyes
-In this task I have to design a power circuit for LEDs lighting using voltage regulator and to minimize power consumption by controlling blinking frequency of LEDs. I have used Tinker CAD to simulate this circuit.
-
+In this task I have to design a power circuit for LEDs lighting using voltage regulator and to minimize power consumption by controlling blinking frequency of LEDs. I have used Tinker CAD to simulate this circuit and you can find it here:
 [Tinker CAD link](https://www.tinkercad.com/things/jeBOQKH9Ago-robotic-led-eyes/editel?sharecode=pvDtS9qNMBmcXQoB4dLemtc3LmaJ93Hn0Ijw9mj76ZQ)
 
 **COMPONENTS USED**
