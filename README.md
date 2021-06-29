@@ -10,7 +10,7 @@ Note: It turned out that controlling output voltage using potentiometer is not n
 
 **CODING**
 
-I have used Arduino to control PWM signal of the base signal of BJT transistor to blink the LED every 20mS such that it the duty cycle ratio is 50% (ON for 10mS and OFF for 10mS). The code is attached.
+I have used Arduino to control PWM signal of the base signal of BJT transistor to blink the LED every 20mS such that the duty cycle ratio is 50% (ON for 10mS and OFF for 10mS) and sonnected series resistor with the base to minimize base current. The code is attached in **ino file**.
 
 **SERIES OR PARALLEL ??**
 
