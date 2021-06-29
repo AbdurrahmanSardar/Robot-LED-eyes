@@ -6,7 +6,6 @@ In this task I have designed a power circuit for LEDs lighting using voltage reg
 
 I have used **9V power supply** in this circuit, **LM7805 voltage regulator** to change the 9V to 5V, **two capacitors** to minimize voltage variation in 9V side and 5V side, **resistor** and **potentiometer** to control the output voltage in limited  region, **Arduino** to control base signal of switch, **NPN transistor (BJT)** to work as a switch to perform blinking effect of LEDs and finally **2 LED light**s.
 Note: It turned out that controlling output voltage using potentiometer is not needed here, but I still didn't remove it from the circuit and it can be used for a changable color LED. LEDs are connected at the output of the voltage regulator series with BJT and I will explain if to connect LEDs series or parallel soon. All the values of components are in the link below as well as connection of the voltage regulator:
-
 [Adjustable voltage using 7805](http://www.learnerswings.com/2014/07/adjustable-output-voltage-regulator.html)
 
 **CODING**
