@@ -24,7 +24,7 @@ Here we are using 5mm LED which has nominal current of (16-18 mA) and voltage of
 
 **ATTACHMENTS**
 
-Let me introduce all the attachments in this repository. There are several files with the following extensions: **brd** file, which is a simulation file from Tinker CAD simulation website. **ino** file, which is an Arduino code to control LED blinking. and there are PNG files to show the simulation before and after running the simulation and the code.
+Let me introduce all the attachments in this repository. There are several files with the following extensions: **brd** file, which is a simulation file from Tinker CAD simulation website. **ino** file, which is an Arduino code to control LED blinking. and there are **PNG** files to show the simulation before and after running the simulation and the code.
 
 If you are working on this in real life please check for the connection of each element carefully as shown in the simulation file of the pictures attached before running for the safety of your tools.
 
